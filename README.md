@@ -1,3 +1,5 @@
+![alt text](https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 # Event Scheduler Application
 
 This Event Scheduler Application allows users to manage their events and schedules effectively. It provides functionalities for creating, updating, deleting, and viewing events. Users can personalize their scheduling page with specific time slots and view them in an organized manner.
